@@ -20,10 +20,10 @@
 
 # Screenshots
 
-!['homepage'](docs/1-homepage.png)
-!['product-page'](docs/2-productPage.png)
-!['search-page'](docs/3-searchPage.png)
-!['cart'](docs/4-Cart.png)
+!['homepage'](cellmate/docs/1-homepage.png)
+!['product-page'](cellmate/docs/2-productPage.png)
+!['search-page'](cellmate/docs/3-searchPage.png)
+!['cart'](cellmate/docs/4-Cart.png)
 
 # Getting Started
 
